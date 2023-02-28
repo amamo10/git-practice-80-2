@@ -1,0 +1,5 @@
+practice38-1.a
+*.a
+*.[ab]
+data3
+!practice38-1.a
